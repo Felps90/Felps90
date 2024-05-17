@@ -1,5 +1,14 @@
-### Hi there 👋
+### E aí! ☕☕
 
+
+* Estou estudando na Alura
+* Estou me desenvolvendo na linguagem de programação JavaScript
+* Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
+
+  ### Você pode entrar em contato comigo em: 📫
+
+  00001122978856sp@al.educacao.sp.gov.br
+  @Felps90
 <!--
 **Felps90/Felps90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
