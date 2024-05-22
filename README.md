@@ -7,7 +7,7 @@
 
   ### Você pode entrar em contato comigo em: 📫
 
-  00001122978856sp@al.educacao.sp.gov.br
+  felpsgoncalves1@gmail.com
   @Felps90
 <!--
 **Felps90/Felps90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
